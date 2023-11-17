@@ -1,4 +1,4 @@
-// Assigning a value to a string array using the keyboard
+// git 
 #include <iostream>
 #include <string>
 
